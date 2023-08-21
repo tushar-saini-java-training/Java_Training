@@ -8,8 +8,7 @@ class Rectangle{
         return length*breadth;
     }
 }
-
-public class CalAreaOfRectangle {
+public class CallMethods {
 
     public static void main(String[] args) {
         Rectangle rl=new Rectangle();

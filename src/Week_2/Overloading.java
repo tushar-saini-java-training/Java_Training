@@ -1,4 +1,4 @@
-package Week_2.Constructor;
+package Week_2;
 
 public class Overloading {
     Overloading(double d){
